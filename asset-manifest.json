@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-dynamic-form/static/css/main.b372f4eb.css",
+    "main.js": "/sprint-4-dynamic-form/static/js/main.6191fcdc.js",
+    "static/js/787.3e224017.chunk.js": "/sprint-4-dynamic-form/static/js/787.3e224017.chunk.js",
+    "index.html": "/sprint-4-dynamic-form/index.html",
+    "main.b372f4eb.css.map": "/sprint-4-dynamic-form/static/css/main.b372f4eb.css.map",
+    "main.6191fcdc.js.map": "/sprint-4-dynamic-form/static/js/main.6191fcdc.js.map",
+    "787.3e224017.chunk.js.map": "/sprint-4-dynamic-form/static/js/787.3e224017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b372f4eb.css",
+    "static/js/main.6191fcdc.js"
+  ]
+}
